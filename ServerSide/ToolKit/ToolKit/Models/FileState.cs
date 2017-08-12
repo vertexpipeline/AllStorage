@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ToolKit
+namespace ToolKit.Models
 {
-    interface IStorage
+    enum FileState
     {
-
+        created,
+        uploaded
     }
 }

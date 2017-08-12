@@ -10,6 +10,6 @@ namespace ToolKit.Models
         public System.Net.IPEndPoint address;
         public NodeInfo[] nodes;
         public Hash accessKey;
-        public Hash storageKey; // hash of name
+        public Hash ID; // hash of name 
     }
 }

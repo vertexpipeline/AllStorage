@@ -82,5 +82,10 @@ namespace ToolKit
 
             return base.Equals(obj);
         }
+
+        public override string ToString()
+        {
+            return Convert.ToBase64String(_hash);
+        }
     }
 }

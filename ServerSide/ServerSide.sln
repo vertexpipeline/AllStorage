@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToolKit", "ToolKit\ToolKit\ToolKit.csproj", "{074C04CE-216C-4569-93FD-CA7DFA125BF0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocalStorage", "LocalStorage\LocalStorage.csproj", "{76329596-8D0A-4832-A549-4F5FA931BF36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Router", "Router\Router.csproj", "{F502C3CE-BA5E-4793-882F-F5B8E33D8BFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{074C04CE-216C-4569-93FD-CA7DFA125BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074C04CE-216C-4569-93FD-CA7DFA125BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074C04CE-216C-4569-93FD-CA7DFA125BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074C04CE-216C-4569-93FD-CA7DFA125BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76329596-8D0A-4832-A549-4F5FA931BF36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76329596-8D0A-4832-A549-4F5FA931BF36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76329596-8D0A-4832-A549-4F5FA931BF36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76329596-8D0A-4832-A549-4F5FA931BF36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F502C3CE-BA5E-4793-882F-F5B8E33D8BFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F502C3CE-BA5E-4793-882F-F5B8E33D8BFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F502C3CE-BA5E-4793-882F-F5B8E33D8BFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F502C3CE-BA5E-4793-882F-F5B8E33D8BFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
