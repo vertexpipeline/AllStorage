@@ -17,6 +17,13 @@ namespace LocalStorage.Controllers
     {
         private Hash passH = Hash.FromString(Program.settings.key);
 
+        static StoragingController()
+        {
+            foreach (FileInfo f in JsonConvert.DeserializeObject<FileInfo[]>(System.IO.File.ReadAllText("files.json"))) { 
+                files.Add(f);
+            }
+        }
+
         private bool ValidateKey()
         {
             string key;
@@ -62,7 +69,7 @@ namespace LocalStorage.Controllers
 
                 return new OperationResult {
                     result = info,
-                    state = "success"
+                    state = OperationState.success
                 };
                 
             } else {

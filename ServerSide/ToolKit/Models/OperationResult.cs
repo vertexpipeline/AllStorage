@@ -6,7 +6,7 @@ namespace ToolKit.Models
 {
     public class OperationResult
     {
-        public string state;
+        public OperationState state;
         public object result;
     }
 }
