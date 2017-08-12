@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Tester
 {
-    class Program
+    public class Program
     {
         static async Task Start()
         {

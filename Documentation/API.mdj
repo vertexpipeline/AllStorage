@@ -3296,7 +3296,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "+scan(accessKey: Hash, target: ScanTarget, targetTime: Timestamp, path: String): DirectoryInfo",
+											"text": "+scan(accessKey: Hash, path: String): DirectoryInfo",
 											"horizontalAlignment": 0,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -4815,38 +4815,6 @@
 										{
 											"_type": "UMLParameter",
 											"_id": "AAAAAAFd0KtptPs18CE=",
-											"_parent": {
-												"$ref": "AAAAAAFd0KqY+/stXfo="
-											},
-											"name": "target",
-											"visibility": "public",
-											"isStatic": false,
-											"isLeaf": false,
-											"type": "ScanTarget",
-											"isReadOnly": false,
-											"isOrdered": false,
-											"isUnique": false,
-											"direction": "in"
-										},
-										{
-											"_type": "UMLParameter",
-											"_id": "AAAAAAFd0Ktptfs2TKQ=",
-											"_parent": {
-												"$ref": "AAAAAAFd0KqY+/stXfo="
-											},
-											"name": "targetTime",
-											"visibility": "public",
-											"isStatic": false,
-											"isLeaf": false,
-											"type": "Timestamp",
-											"isReadOnly": false,
-											"isOrdered": false,
-											"isUnique": false,
-											"direction": "in"
-										},
-										{
-											"_type": "UMLParameter",
-											"_id": "AAAAAAFd0Ktptvs3yRg=",
 											"_parent": {
 												"$ref": "AAAAAAFd0KqY+/stXfo="
 											},

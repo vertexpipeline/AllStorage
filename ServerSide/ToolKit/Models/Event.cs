@@ -4,9 +4,9 @@ using System.Text;
 
 namespace ToolKit.Models
 {
-    class Credentials
+    public class Event
     {
-        public string result;
-        public Hash key;
+        public EventType type;
+        public object info;
     }
 }

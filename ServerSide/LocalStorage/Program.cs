@@ -5,22 +5,35 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Newtonsoft.Json;
+using static System.Console;
 
 namespace LocalStorage
 {
     public class Program
     {
+        public static Settings settings;
+
         public static void Main(string[] args)
         {
+            try {
+                settings = JsonConvert.DeserializeObject<Settings>(File.ReadAllText("settings.json"));
+                WriteLine("Starting.");
+                WriteLine($"Server key: {settings.key}");
+                WriteLine($"Key hash: {System.Net.WebUtility.UrlEncode(ToolKit.Hash.FromString(settings.key).ToString())}");
+            }catch(Exception ex) {
+                WriteLine("Cannot load settings.\n Press any key...");
+                return;
+            }
+
             var host = new WebHostBuilder()
                 .UseKestrel()
                 .UseContentRoot(Directory.GetCurrentDirectory())
-                .UseIISIntegration()
                 .UseStartup<Startup>()
-                .UseApplicationInsights()
+                .UseUrls($"Http://localhost:{settings.port}")
                 .Build();
 
-            host.Run();
+                host.Run();
         }
     }
 }

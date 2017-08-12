@@ -6,21 +6,22 @@ using System.Security.Cryptography;
 
 namespace ToolKit
 {
-    class Hash
+    [Newtonsoft.Json.JsonConverter(typeof(ToolKit.ToStringJsonConverter))]
+    public class Hash
     {
         private byte[] _hash;
         static SHA256 sha = SHA256.Create();
 
         public Hash(string base64)
         {
-            _hash = sha.ComputeHash(Convert.FromBase64String(base64));
+            _hash = Convert.FromBase64String(base64);
         }
         private Hash()
         {
 
         }
 
-        public static Hash FromString(string data) => new Hash() { _hash = sha.ComputeHash(Encoding.Unicode.GetBytes(data)) };
+        public static Hash FromString(string data) => new Hash() { _hash = sha.ComputeHash(Encoding.ASCII.GetBytes(data)) };
         public static Hash FromBase64(string base64) => new Hash(base64);
         public static Hash FromStream(Stream stream) => new Hash() { _hash = sha.ComputeHash(stream) };
 

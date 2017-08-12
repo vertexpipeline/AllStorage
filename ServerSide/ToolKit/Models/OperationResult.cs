@@ -4,9 +4,9 @@ using System.Text;
 
 namespace ToolKit.Models
 {
-    class FolderInfo
+    public class OperationResult
     {
-        public string name;
-        public string path;
+        public string state;
+        public object result;
     }
 }

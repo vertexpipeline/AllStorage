@@ -4,9 +4,9 @@ using System.Text;
 
 namespace ToolKit.Models
 {
-    class DirectoryInfo
+    public class Credentials
     {
-        public FolderInfo[] folders;
-        public FileInfo[] files;
+        public string result;
+        public Hash key;
     }
 }

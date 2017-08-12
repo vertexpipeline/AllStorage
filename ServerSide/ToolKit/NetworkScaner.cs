@@ -46,5 +46,9 @@ namespace ToolKit
             });
             return foundIPs.ToArray();
         }
+        public static async Task<IPAddress> GetCurrentIPAsync()
+        {
+            return (await Dns.GetHostAddressesAsync(Dns.GetHostName())).First(p => p.AddressFamily == System.Net.Sockets.AddressFamily.InterNetwork);
+        }
     }
 }

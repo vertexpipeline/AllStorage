@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ToolKit.Models
 {
-    enum EventType
+    public enum EventType
     {
         file_added,
         file_deleted,

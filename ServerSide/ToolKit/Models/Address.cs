@@ -4,9 +4,8 @@ using System.Text;
 
 namespace ToolKit.Models
 {
-    class Event
+    class Address
     {
-        public EventType type;
-        public object info;
+
     }
 }

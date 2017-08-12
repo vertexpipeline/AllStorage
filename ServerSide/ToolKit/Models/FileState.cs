@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ToolKit.Models
 {
-    enum FileState
+    public enum FileState
     {
         created,
         uploaded
