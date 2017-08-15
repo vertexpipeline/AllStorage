@@ -3,4 +3,5 @@ AllStorage is a local server, that provides opportunity for fast and secure file
 
  -  [Russian](https://github.com/vertexpipeline/AllStorage/blob/master/Documentation/Russian/README.md)
  - English(not available now)
-Have a nike day.
+ 
+Have a nice day.
