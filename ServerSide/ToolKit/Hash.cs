@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Text;
 using System.IO;
 using System.Security.Cryptography;
+using System.Threading.Tasks;
 
 namespace ToolKit
 {
-    [Newtonsoft.Json.JsonConverter(typeof(ToolKit.ToStringJsonConverter))]
+    [Newtonsoft.Json.JsonConverter(typeof(ToolKit.HashJsonConverter))]
     public class Hash
     {
         private byte[] _hash;
@@ -23,7 +24,12 @@ namespace ToolKit
 
         public static Hash FromString(string data) => new Hash() { _hash = sha.ComputeHash(Encoding.ASCII.GetBytes(data)) };
         public static Hash FromBase64(string base64) => new Hash(base64);
-        public static Hash FromStream(Stream stream) => new Hash() { _hash = sha.ComputeHash(stream) };
+        public static Task<Hash> FromStreamAsync(Stream stream)
+        {
+            return Task.Run(()=> {
+                return new Hash() { _hash = sha.ComputeHash(stream) };
+            });
+        }
 
         public static Hash operator ^(Hash first, Hash second)
         {

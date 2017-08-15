@@ -16,7 +16,7 @@ namespace ToolKit
         Task<OperationResult> CreateAsync(Hash accessKey, Hash nodeID, string name, string path, string extension, object meta, CancellationToken token = default(CancellationToken));
         Task<OperationResult> RenameAsync(Hash accessKey, Hash nodeID, Hash fileID, string newName, CancellationToken token = default(CancellationToken));
 
-        Task UploadAsync(Hash accessKey, Hash nodeID, Hash fileID, System.IO.Stream dataStream, CancellationToken token = default(CancellationToken));
+        Task UploadAsync(Hash accessKey, Hash nodeID, Hash fileID, System.IO.Stream dataStream, long size, CancellationToken token = default(CancellationToken));
         Task<byte[]> DownloadAsync(Hash accessKey, Hash nodeID, Hash fileID, CancellationToken token = default(CancellationToken));
 
         Task<Event[]> listenEventsAsync(Hash accessKey, DateTime timeStamp);

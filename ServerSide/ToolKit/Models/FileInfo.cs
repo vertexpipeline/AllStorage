@@ -11,6 +11,7 @@ namespace ToolKit.Models
         public string path;
         public long size;
         public Hash fileID;
+        public Hash dataHash;
         [Newtonsoft.Json.JsonConverter(typeof(ToolKit.EnumJsonConverter))]
         public FileState state;
     }

@@ -4,23 +4,8 @@
     "extension": "txt",
     "path": "/home",
     "size": 0,
-    "fileID": null,
-    "state": "created"
-  },
-  {
-    "name": "some",
-    "extension": "txt",
-    "path": "/home",
-    "size": 0,
-    "fileID": null,
-    "state": "created"
-  },
-  {
-    "name": "some",
-    "extension": "txt",
-    "path": "/home",
-    "size": 0,
-    "fileID": null,
-    "state": "created"
+    "fileID": "cJDn2wzEUSyoaNPSVsz/ts6D5DabYAaT/kCFpZlw0dI=",
+    "dataHash": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+    "state": "uploaded"
   }
 ]

@@ -9,14 +9,13 @@ using ToolKit;
 using ToolKit.Models;
 using System.Collections.Concurrent;
 using Newtonsoft.Json;
+using System.Net;
 
 namespace LocalStorage.Controllers
 {
     [Route("[controller]")]
     public class StoragingController : Controller
     {
-        private Hash passH = Hash.FromString(Program.settings.key);
-
         static StoragingController()
         {
             foreach (FileInfo f in JsonConvert.DeserializeObject<FileInfo[]>(System.IO.File.ReadAllText("files.json"))) { 
@@ -27,6 +26,7 @@ namespace LocalStorage.Controllers
         private bool ValidateKey()
         {
             string key;
+            Hash passH = Hash.FromString(Program.settings.key);
             try { key = Request.Query["accessKey"][0] as string; } catch (Exception ex) { return false; }
             var hash = new Hash(key);
             if (hash == passH) {
@@ -55,7 +55,7 @@ namespace LocalStorage.Controllers
         
                 var info = new FileInfo
                 {
-                    fileID = null,
+                    fileID = Hash.FromString($"{path}\\{name}.{ext}"),
                     name = name,
                     extension = ext,
                     size = 0,
@@ -73,8 +73,37 @@ namespace LocalStorage.Controllers
                 };
                 
             } else {
-                Response.StatusCode = (int)System.Net.HttpStatusCode.Unauthorized;
+                Response.StatusCode = (int)HttpStatusCode.Unauthorized;
                 return null;
+            }
+        }
+
+        [Route("upload")]
+        public async void Upload()
+        {
+            if (ValidateKey()) {
+                var id = Hash.FromBase64(Request.Query["fileID"][0]);
+                var size = Convert.ToInt64(Request.Query["size"][0]);
+
+                var file = files.FirstOrDefault(p => p.fileID == id);
+                if(file != null) {
+                    if(file.state == FileState.created) {
+                        using(var stream = System.IO.File.Create($"files/{WebUtility.UrlEncode(file.fileID.ToString())}.file")) {
+                            await Request.Body.CopyToAsync(stream, 1024);
+                            var hash = await Hash.FromStreamAsync(stream);
+                            file.dataHash = hash;
+                            file.state = FileState.uploaded;
+                            SaveFilesInfoAsync();
+                        }
+                        
+                    } else {
+                        Response.StatusCode = (int)HttpStatusCode.NotModified;
+                    }
+                } else {
+                    Response.StatusCode = (int)HttpStatusCode.NotFound;
+                }
+            } else {
+                Response.StatusCode = (int)HttpStatusCode.Unauthorized;
             }
         }
     }

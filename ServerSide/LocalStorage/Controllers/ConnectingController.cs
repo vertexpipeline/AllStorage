@@ -45,5 +45,11 @@ namespace LocalStorage.Controllers
                 return new NodeInfo[0];
             }
         }
+
+        [Route("ping")]
+        public string Ping()
+        {
+            return "pong";
+        }
     }
 }

@@ -30,7 +30,7 @@ namespace LocalStorage
                 .UseKestrel()
                 .UseContentRoot(Directory.GetCurrentDirectory())
                 .UseStartup<Startup>()
-                .UseUrls($"Http://localhost:{settings.port}")
+                .UseUrls($"Http://192.168.1.203:{settings.port}")
                 .Build();
 
                 host.Run();
