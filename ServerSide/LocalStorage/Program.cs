@@ -29,7 +29,7 @@ namespace LocalStorage
             var host = new WebHostBuilder()
                 .UseKestrel()
                 .UseContentRoot(Directory.GetCurrentDirectory())
-                .UseStartup<Startup>()
+                .UseStartup<Startup>() 
                 .UseUrls($"Http://192.168.1.203:{settings.port}")
                 .Build();
 
