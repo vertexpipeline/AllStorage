@@ -4,9 +4,9 @@ using System.Text;
 
 namespace ToolKit.Models
 {
-    public class FolderInfo
+    public class StorageTreeNode
     {
-        public string name;
-        public string path;
+        public FileInfo info;
+        public List<StorageTreeNode> children;
     }
 }

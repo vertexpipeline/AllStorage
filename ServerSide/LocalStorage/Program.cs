@@ -25,15 +25,16 @@ namespace LocalStorage
                 WriteLine("Cannot load settings.\n Press any key...");
                 return;
             }
-
+            Console.WriteLine(DateTime.Now.ToString());
             var host = new WebHostBuilder()
                 .UseKestrel()
                 .UseContentRoot(Directory.GetCurrentDirectory())
                 .UseStartup<Startup>() 
-                .UseUrls($"Http://192.168.1.203:{settings.port}")
+                .UseUrls($"Http://192.168.1.95:{settings.port}")
                 .Build();
 
                 host.Run();
+            
         }
     }
 }

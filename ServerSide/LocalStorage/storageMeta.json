@@ -1,0 +1,2707 @@
+[
+  {
+    "name": "root",
+    "path": "",
+    "folders": [
+      {
+        "name": "lol",
+        "path": "root",
+        "folders": [],
+        "files": [
+          {
+            "name": ".patch.result",
+            "extension": "result",
+            "path": "root/lol",
+            "size": 1,
+            "fileID": "dUr9PXz8A22bpC6ChCDzQ+UUbUvAF8JrSaHFfEMr5LA=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": ".product.db",
+            "extension": "db",
+            "path": "root/lol",
+            "size": 247,
+            "fileID": "x4rlm3f/MFKGsw2akzXY0AGxq8XjpvO79SWPErRdXnA=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "Launcher.db",
+            "extension": "db",
+            "path": "root/lol",
+            "size": 4,
+            "fileID": "5n9ouGl6ioGeDdD3XfLrOkIpJ2Thl1Dc/hha5010Zc8=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "StarCraft II Editor.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 364592,
+            "fileID": "2a+CXPLGzwpBW1wg7MMlAYvgHiWaz8Cermk/8DeN36s=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "StarCraft II Editor_x64.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 370736,
+            "fileID": "IQNpjZzN5CnGot2ZtrSmA2pibvgORjvTWPvU5ZK+Krw=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "StarCraft II Offline.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 317440,
+            "fileID": "v/HB3uTrqohGCAXVyMVmdBdIwZU4FZporMNfZnQCtuI=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "StarCraft II Offline.x64",
+            "extension": "x64",
+            "path": "root/lol",
+            "size": 88576,
+            "fileID": "s5sD5WHBCvCjwcIjLhW4kvv3UCzpgFwXMo9qlR5BNJE=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "StarCraft II.bmode",
+            "extension": "bmode",
+            "path": "root/lol",
+            "size": 4,
+            "fileID": "dXrUzjedjEZyEtJ3v+1BFlz/1/5ffkrvNsICKLKvw+g=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "StarCraft II.btag",
+            "extension": "btag",
+            "path": "root/lol",
+            "size": 10,
+            "fileID": "2EADfkvVH3uBkgxeyJOncmjVOb3KXOJXjkAyjQn+Vio=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "StarCraft II.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 3254832,
+            "fileID": "zgQpglVWaow7/mZ7vRvsRiAl8g+gm3ohMr5HUXwVdfo=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "unins000.dat",
+            "extension": "dat",
+            "path": "root/lol",
+            "size": 57352,
+            "fileID": "5FB/WuyusnxouUv69lwj1OjK9xmqfZIZ8XewN29EnLQ=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "unins000.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 2106463,
+            "fileID": "ABkrpeoLy0Nfs9U0v0GuMvHp4ts6PusZyRcpZ1SWSz4=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": ".build.info",
+            "extension": "info",
+            "path": "root/lol",
+            "size": 577,
+            "fileID": "uRYALFCf7vvmWjD9CBIS3HaYlalG//LBNaRqOWzJXQo=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "cacls.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 32256,
+            "fileID": "WaGEXd2RT2SnASDnOas6csz/UxXX3Sa+cpcAgqFokTw=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "calc.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 27648,
+            "fileID": "O0i5w0DIFUCtFeOMWfzAbUzUbAXdlrQ0Tj0P5RxCfPE=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "CallButtons.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 96256,
+            "fileID": "UlZhfYepx0sMkloKcPjuOEN9F9NL4HI97NJrOfnkYkc=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "CallButtons.ProxyStub.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 28160,
+            "fileID": "c1chcx8nM34uaYO4nNfvp3TRRH7I6FxTBrLjo80LhEE=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "CallHistoryClient.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 156672,
+            "fileID": "kp26Pdk7QGUiHDzPYndVHRBgH8uRAK2QValLnrJaluU=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "CameraCaptureUI.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 109056,
+            "fileID": "eoSQq3uvp+APcOrM8rsupiLNv7d2mzazKlVeHSnsMqA=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "@bitlockertoastimage.png",
+            "extension": "png",
+            "path": "root/lol",
+            "size": 199,
+            "fileID": "5vr3yx+QxLvNKoqWx7/VJeQ0BfPMI5/A515Cefs8WaE=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "@edptoastimage.png",
+            "extension": "png",
+            "path": "root/lol",
+            "size": 14791,
+            "fileID": "QFZOu72IT2BkDT+3sgxLHLRA81i6123aPasZ0liYIRk=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "@EnrollmentToastIcon.png",
+            "extension": "png",
+            "path": "root/lol",
+            "size": 330,
+            "fileID": "AxTw7MI3W6VDWHK3lmBZvXegKCGkz1Ji7RbjJeQsQak=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "@language_notification_icon.png",
+            "extension": "png",
+            "path": "root/lol",
+            "size": 600,
+            "fileID": "/xo1GB/cKHYN760F+pLqoLDZY4FPh8NbPwg0OwAVtmc=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "@optionalfeatures.png",
+            "extension": "png",
+            "path": "root/lol",
+            "size": 520,
+            "fileID": "aJvX9fSQu4UW+xzK3rw0Lmxp+8Tfch27+NSOZnOhUwg=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "@VpnToastIcon.png",
+            "extension": "png",
+            "path": "root/lol",
+            "size": 404,
+            "fileID": "Zm2FeB7S+J6ggWtGSUZdPO45NF0V4cbGsnvwuCeYsK4=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "@WiFiNotificationIcon.png",
+            "extension": "png",
+            "path": "root/lol",
+            "size": 15106,
+            "fileID": "X5XgO7nByjo+Tll6yccyeezI+t+eVr/r3cQYTvOiNA0=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "@WindowsHelloFaceToastIcon.png",
+            "extension": "png",
+            "path": "root/lol",
+            "size": 714,
+            "fileID": "nfKqM6D5dP7yDoOvN05F965WuiTrxmT2qmaPnD6IuyE=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "@WindowsUpdateToastIcon.png",
+            "extension": "png",
+            "path": "root/lol",
+            "size": 518,
+            "fileID": "t0Kl0xIgL0T41VStYqpX6TnbqHEpHbavmXZCU5f2vxs=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "@WwanNotificationIcon.png",
+            "extension": "png",
+            "path": "root/lol",
+            "size": 155,
+            "fileID": "8fhJNPUQU6KDHoLezN9eyPZN00BQug8kWQ4SiqGMX8E=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "@WwanSimLockIcon.png",
+            "extension": "png",
+            "path": "root/lol",
+            "size": 352,
+            "fileID": "+mrbF4VYBz4ArnDh7KkVblZM1F8dObX3MZTF/XCaZJw=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "{A6D608F0-0BDE-491A-97AE-5C4B05D86E01}.bat",
+            "extension": "bat",
+            "path": "root/lol",
+            "size": 144,
+            "fileID": "XXprmIg21bHJgBxnmcxCkswjnWOyIlugWo5Kzu1M410=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "{F33C3B9B-72AF-418A-B3FD-560646F7CDA2}.bat",
+            "extension": "bat",
+            "path": "root/lol",
+            "size": 451,
+            "fileID": "QZzFcFGugcUrtTFbvLIFRgY4RR4RCzCGjVEztClU/ns=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "aadauthhelper.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 34304,
+            "fileID": "+n/zmEU4Eqoy1E5nN1w8fsUGilfMENu1DrN49Ldj4Aw=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "aadcloudap.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 527360,
+            "fileID": "rwM7UBTkk1NdwYePxS3Efj9Ii6L/CYTovl42uOr3p9w=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "aadjcsp.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 59904,
+            "fileID": "eMV7Ib3oxXOEwXZDaiU1CTY+DXUsY6TeKqnwKR6gORk=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "aadtb.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 1293824,
+            "fileID": "wTXGlLwySRPu7OvnccxM6ETRhgRVC3qUJmnDccmz+80=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AboveLockAppHost.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 299520,
+            "fileID": "CmMUv1tQjIm2QwV5zqIQdEGqyfRUyQ2DNFi02UoEXV4=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "accessibilitycpl.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 3825664,
+            "fileID": "Hu5uKvi4BmBuOCXXR2XC+M6j0+IqG6tq07oPdOmZT5I=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "accountaccessor.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 273920,
+            "fileID": "7euiwxwY3DokW8oYKtxg/Zd/Pl3i3s0mI7UrNvQ/yvA=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AccountsRt.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 435200,
+            "fileID": "nj6pPBiru5JevgKWOXsFQmZYxJCtv590WtGaizAwJcI=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "ACCTRES.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 39936,
+            "fileID": "vggEqAhZ9+o6jIAvK9pLOXPyxno1UcJx9gqnwsIX3BQ=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "acledit.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 11264,
+            "fileID": "xU/k7y7ZGoA4wmuu8VntrFkM86pwFdHTRR+s5VYLFAk=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "aclui.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 5499904,
+            "fileID": "oxDGTtdOcafHkGWMegkWY8WC+v8UOLua57TdMH7vej4=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "acmigration.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 136096,
+            "fileID": "vJVSger0Hs8Q0LorTV9VEu3CHAW2p/teQHp2JniWq3s=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "ACPBackgroundManagerPolicy.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 197120,
+            "fileID": "fqOStNa1ytE4uozKdjlrKoPlqieWzp228iluKZneAPo=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "acppage.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 55296,
+            "fileID": "ulXmldafC8FfKmtLCbOn75ao4poVeHDAfAlumlSU6q0=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "acproxy.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 13312,
+            "fileID": "35HcHbX7x13O6y7EnogIe38JD3Vyl/lVqPI3YykfgzE=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "ActionCenter.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 318976,
+            "fileID": "o+89YF2qovSLDc7GRvXq/IE8uuQL6TEaifnvCPIXKkA=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "ActionCenterCPL.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 561152,
+            "fileID": "G2tGWk+88sOgjbsTN6uX4JwW1VeVYigyZm8GlF15J00=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "ActionQueue.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 219040,
+            "fileID": "jGD9Ti5WWNtnOXY/8n2XjI2uFY0j0B9Kvv/HhA+CfK4=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "ActivationClient.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 33792,
+            "fileID": "euKdnXlfsLF4Vgx1qB/GQI+BNCO6ld3LYftJuBKP4rA=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "ActivationManager.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 412160,
+            "fileID": "WNIXCIW1XT1HjfHKcgO7q1EWOd+TPs3y0AxNORGe7Zc=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "activeds.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 262144,
+            "fileID": "yE5NByYr72kxz2V42aP8JnLCXOxpKpjO+k2XzT+QMrg=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "activeds.tlb",
+            "extension": "tlb",
+            "path": "root/lol",
+            "size": 112128,
+            "fileID": "ZVwmSslQWLeZufaDybfER5eaMfTjLaNEIG0rVozft6s=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "ActiveSyncCsp.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 96256,
+            "fileID": "WbCb3iI5dVQjvDoK3mTD/t/oF3BK2npGlxbDPFT6XXM=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "ActiveSyncProvider.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 1713664,
+            "fileID": "labdJENnzUzZFvz+BGambQ7Ywvv69Ah9I4e50zUj9pc=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "actxprxy.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 583168,
+            "fileID": "licalaqZhnoafFCAFSSM50mhVneTWgiLQ5xWHt+B0Ps=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "acu.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 23040,
+            "fileID": "F2B0k/GjR6510K8Mm2MqvoGdMMQDxCQbejcQ6n8BBrg=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "adalsql.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 988328,
+            "fileID": "Wij31uQSgpoZIjBd9nV9jtQhDnFK1A54TUxirkxNBSE=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AddressParser.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 67072,
+            "fileID": "IrrKOTtlMhG+K4HCztCwkaFn7l4uo35hM04gKvsNNn0=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "adhapi.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 23552,
+            "fileID": "POgOQFKEvoeGa4JjNXhJ8DCZsFvcdBKe34XxxjMlbrY=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "adhsvc.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 72192,
+            "fileID": "tr8iFopRac5AskX+QmbjdmJVb/M8tLrJlPBoo+AnVl4=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AdmTmpl.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 548864,
+            "fileID": "i5UGCKvMkAAKg+Y8bnZUks3V2WJFDDuGBZGfz1J20IM=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "adprovider.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 58368,
+            "fileID": "hcRe39WHxCES/Md7Qj0NTyk98ReOgnySDie/FzCTl8A=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "adrclient.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 135168,
+            "fileID": "yYVNhIG/EWW/ZQefkj9mtMV2MhWfTJhuc+5WElC8XOY=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "adsldp.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 245760,
+            "fileID": "Bw/P7VUA3DyYq7K80iPHSnSY78K1MRba33PfHR5XAl0=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "adsldpc.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 247296,
+            "fileID": "I/G/zixH6jiMaClaTmnyPTFJ+O6BX3ouU2FVKcBiFcM=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "adsmsext.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 96768,
+            "fileID": "ZfbE7xfnMBsAlkv3MxK7TYW/LuuZ0m3SbkGRlfP3J2s=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "adsnt.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 334336,
+            "fileID": "LMf/eEB2FnifczWLTdrxDNSX5q06pjyILG1nUUtxAWQ=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "adtschema.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 827392,
+            "fileID": "+qEokh+ZC0aZngoKHZs3qdiwfHDRX/EfMLnVN8YItmI=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "advapi32.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 644696,
+            "fileID": "WsFz2VPVZ7q4/930Dp8Q/UkIORbi8O8/7ku6Hu99nhY=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "advapi32res.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 2560,
+            "fileID": "ly7HjDI445J/rlBfcsdEvFHcXn/f5lMnKiXD+rhVjeo=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "advpack.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 142848,
+            "fileID": "GTwXcYIc0LjWPGd9u8oIjBoMocWmWty+lkI/oDzt6ls=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "aeevts.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 30208,
+            "fileID": "EzG9BR2OznUSkyfmVUDtJrj3vDxTwS92xAGsThlQ+bc=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "aeinv.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 1214880,
+            "fileID": "bitiDuwi1XVaDIdhFwjO9yIwMmuY3uPSkhEQLXovrNI=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "aepic.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 233376,
+            "fileID": "716gGZjkdPBCVvso3Q2q/Onno75plv7DQ2oxJjrUx9M=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AgentService.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 1200640,
+            "fileID": "inXoRhFMw9Stqljmy6t5MbVKHo2AZPCmWelkhYawV0I=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "aitstatic.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 1703424,
+            "fileID": "/CbG1Ci8fNsYuvKsZExNXyG1i3YtDIegnGwB7vaEOg0=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AJRouter.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 24576,
+            "fileID": "viRVJj8zpVYdw7hknaZ6l1h81Vb+PFIS07vESLK9pVI=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "alg.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 92672,
+            "fileID": "iTrol6EB3eOEkrZ885H+X7A9Aa60z1Mge2sy9JEoi4g=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "altspace.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 35328,
+            "fileID": "09pMQWSPqRZL5DUpo5RI2hsxLRmalPtHD+Q7jk2Ymc4=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "amcompat.tlb",
+            "extension": "tlb",
+            "path": "root/lol",
+            "size": 18944,
+            "fileID": "6vS4l1yYH53EgHgO7jN1fqtISPVR3ATk7bi2eVB22bA=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "amsi.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 48128,
+            "fileID": "Fwd+UFRIPjexZfshcAvBJCf6Wi9DjQneUhvJwPNJ0qQ=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "amsiproxy.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 14848,
+            "fileID": "xpYPNnYlQs9cRHigTBOg4dInO7+EOruYGm5aeQmdmf0=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "amstream.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 94208,
+            "fileID": "+acuvp0zvlEdiLbhcmaxcjx76LArE8hxrSQv53UH1bc=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "apds.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 251904,
+            "fileID": "FVNW5qvuhhsUcRMsC/4BUiqEKEPp5wFZHytrndx8zw4=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "APHostClient.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 71168,
+            "fileID": "3Ef0UkyrwpY4T9mRDaaw7PzUz0Kj4lMyCZ3Nmeft63g=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "APHostRes.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 15872,
+            "fileID": "BNcq57rO+xnmlB8pC6agx0x6Hv3Co9ZhlqRBCGgiZ8g=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "APHostService.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 342528,
+            "fileID": "FPvdJcPt9I502nWXra07BYSHLLkZVvuJIboYlYCB9DE=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "apisetschema.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 109984,
+            "fileID": "hHq8q3UWAy6bf0OXnjROHh3Dk3TDeikPDHMDZpkMXCs=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "ApnDatabase.xml",
+            "extension": "xml",
+            "path": "root/lol",
+            "size": 446124,
+            "fileID": "M5jBntwHSz94qAkTTPxlB5UiVdvMhjG19BErImRRv3g=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppCapture.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 99328,
+            "fileID": "Uf4AlA7V/Uoey3IhKMb5GVFaIC0Zlei9ljB/m+QVxuM=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppContracts.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 726016,
+            "fileID": "dMnbHw4CONN99ZdxyozYPCPbcB3Xl4oeaYZsrcrDtyk=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppExtension.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 173568,
+            "fileID": "4WvE8YC5HeeR0l1dx4IbcKsw/cLI8tyS1rKxiDxGZ/Q=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "apphelp.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 497152,
+            "fileID": "fexNM/oAUACPoeubU8AHxPfqZ8sVORE6ElDHY2qaKlM=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "Apphlpdm.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 35840,
+            "fileID": "vLNScSM/o7e9ceKQ9D1P0l9dpcQWxHfsR8vKvhAh/vs=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppHostRegistrationVerifier.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 105472,
+            "fileID": "p82lNgbM8DN0ZlJ65K1WtHPIlQwVdtWPl/DVh5mnQxI=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "appidapi.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 64680,
+            "fileID": "R8/T2Kv32YrOUe8gEnR15fcZwJMgVD7hDn0l+2y90MY=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "appidcertstorecheck.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 19456,
+            "fileID": "LBI/Ek+lvvGevMZGHHYeiy7J/ybmPbavWZ8iAMj4QoI=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "appidpolicyconverter.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 159744,
+            "fileID": "sPwtKsHGZLm6B4Ek9F/ECX/KiaRqg47PQNSl8xVBxnU=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppIdPolicyEngineApi.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 409600,
+            "fileID": "w6hrzQDfns43POjTHAOeoryL743sex7XrMyNwVZ+bpg=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "appidsvc.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 120320,
+            "fileID": "ju5khGf4wlKWv9CoKqP9jSXMn+gB3Gypc079dlBa07Q=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "appidtel.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 25088,
+            "fileID": "0AAN98CRZukMUdXylYjumJvim8p+y2ybVhqWjyc6P9E=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "appinfo.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 138752,
+            "fileID": "O0trYjgkAxk45zGheRvzXXnPd55/SrjM3jMFzuYnB9U=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "appinfoext.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 11776,
+            "fileID": "SwmedKBCCqtdz7sTKlZmCpFzj/MP2A1rRvXkd+V/jCU=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "ApplicationFrame.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 1176064,
+            "fileID": "+OYrOu4NeP89/6Rph/ADAWfqrrA+By+n8zNDXNTtPBc=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "ApplicationFrameHost.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 64136,
+            "fileID": "KuQQYypGwf0EAdcFIuZF9Pob1Xwg7gUTmtjhqOlhEPw=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppLockerCSP.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 336384,
+            "fileID": "WCllbw3MO3sVfAF0Gl7nZvK3b+MYzqvJIeEvlCaGSss=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "ApplySettingsTemplateCatalog.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 1141760,
+            "fileID": "6IyHHor4y3UPwuU5tMj4tiSda2/xoOWVw7mb6wO2ydE=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppManagementConfiguration.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 146432,
+            "fileID": "uxyZ+EdrmNK18SEGAn4/r6dWQ2+RxFKF6nyjwK072Mg=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "appmgmts.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 196096,
+            "fileID": "EhR5bcMgj2TzyVpkyP6czA2+Y6x9/9+rpnCHqu/rF70=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "appmgr.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 448000,
+            "fileID": "ddl42jmrc5ivzNbi0pDKZHrUCTo8LTSsgHTCk8aXW1E=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppMon.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 107008,
+            "fileID": "PgdKs/NvBg3zKRl/jhPPIrlE8HBqrKiRP3whNAKC5KM=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppointmentActivation.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 145408,
+            "fileID": "X6aYxTMuClURUodvShzOu1IdonbuPNUXkmMadjJcfVA=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppointmentApis.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 749568,
+            "fileID": "cJ/UmK8l/V2bSs4nO3uIk0pdKzyQQz2wBIsKicMjHs4=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "appraiser.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 1564576,
+            "fileID": "KTvkpqFuo5oPi2LqbWFs4oia+HyAqyPRFnMIyKHPhds=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppReadiness.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 586240,
+            "fileID": "njR4H2NBbPij2vkjvDpEmFzocSkvVvCBxyKQtWxU7uo=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "apprepapi.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 12288,
+            "fileID": "thV74MVrInO9QQ5HWm/sZwU+vnk1EvQ0I5dJ9/dkAAs=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppResolver.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 673112,
+            "fileID": "I/ee10Zy+9a8oazuQo74oGTqlUx5ZIDb1PgcYD/q5Jg=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "ApproveChildRequest.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 233472,
+            "fileID": "I/gdLBqbuOci8h/7GnH53YZCdzoviQWOZazUzcx17Kw=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "appsruprov.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 147968,
+            "fileID": "BntiSQrkLKZRPnsHloojRaQT6GcRI6fzVyLsCmXCVPQ=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppVCatalog.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 699808,
+            "fileID": "tttFWsKIZty0jYdENr+q/ETaHt/a3RGwPyNyDUuKug8=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppVClient.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 846752,
+            "fileID": "GTOOQ3q/Z3hl7dIX2tTA/IEvY7eXblb7i6X7EyTmavs=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppvClientEventLog.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 224256,
+            "fileID": "Niy7d8hdkR2dMxNHJXOKMZZQCzvRLXjY9ivrBEXpnF4=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppVClientPS.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 41376,
+            "fileID": "+0YUih5aoNxuK4eMwxfWW/BFGz7DqCuGtnFBjNVBYgQ=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppVDllSurrogate.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 186272,
+            "fileID": "7KP4rgbMpzQm4oISQArWFzVMb4CJptmVG148Db6SwK0=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppVEntStreamingManager.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 844704,
+            "fileID": "4fO2OUIedwVV1A+CjlvtXjxZF0bRiQSqnIbfaBofkP4=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppVEntSubsystemController.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 1458584,
+            "fileID": "nNAXBPxZOn2mVVmKqMjw8z7VevvaZqLqreiwJEupdLo=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppVEntSubsystems64.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 2229152,
+            "fileID": "YFjTek6qmGemwQWKSt0o0njyPul86xO1k1pphAVcZPA=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppVEntVirtualization.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 1854880,
+            "fileID": "PZuNYuVAPGY8b0qM9nXAsq7Xv5+AwNLBMAtRjspt5mk=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "appverif.chm",
+            "extension": "chm",
+            "path": "root/lol",
+            "size": 652647,
+            "fileID": "dMfBvqdos77t4Ub/HtuV2WiuE1zE2K+NJtROhZSyZok=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "appverif.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 148008,
+            "fileID": "/4nMHYCXyY7jSCmoPJn0AgT/WQoy73xt2apYuJoQLuY=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "appverifUI.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 129840,
+            "fileID": "5AivFcWEHTQbjDDgZunDbtvLSG02v1M8JF7dHP5CW6E=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "appvetwclientres.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 133632,
+            "fileID": "kwnsNPRJs24wMOyhXOqbjlp1zUIb7zAd51Qdo8W8KX4=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "appvetwsharedperformance.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 224256,
+            "fileID": "d87V7tbygs2G4vuWv0mBZbFH5CqwlGiyEkqYnBCY3dg=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "appvetwstreamingux.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 13824,
+            "fileID": "ptW/lMw6DFNVtYgUDsZrW1BKRylgHFKo35GvXt4PmM8=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppVFileSystemMetadata.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 264608,
+            "fileID": "Z0vXQDyEigdv4cBY40czttxbf2oktQxEE/BRNaK4BI8=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppVIntegration.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 1693600,
+            "fileID": "MiFw3LzJA0pI3sUBnXxi0Ix9IyS4/xdAUYcURKJoQqo=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppVManifest.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 992672,
+            "fileID": "xmxMjfwgcStOCWOu1T13Hh3Ldi30zkbVD3xvv71r0+o=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppVNice.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 173984,
+            "fileID": "crEY/Tor+dEjkGC+tUC0qVB20GzoPCsRlD8pkflRQno=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppVOrchestration.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 848280,
+            "fileID": "mhtTw3HZJMk07uhUpLEkvwkW29VhHZ5/Sarlc0V577g=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppVPolicy.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 1100704,
+            "fileID": "3w6lsMkBtDXKzV72YpgSezGzkotVDnbRl3Tl2e3Gfq8=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppVPublishing.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 672672,
+            "fileID": "8VsfeSvc5FUzYRJ4eb7UVrJMw7mLd/a7HCPYEiduVwc=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppVReporting.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 774560,
+            "fileID": "gSHcmTUli2j3rEhF69oXNXDmhYyA83e4zNKqM+t0cDg=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppVScripting.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 399264,
+            "fileID": "vAfudPWoH2itIz2AL7r3fPLFOSl/kbiY/k5+fcT1QSU=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppVSentinel.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 15264,
+            "fileID": "JtxZEoAsnlJleQLO2tkFQap1UtVZxLGtijsoy08erOk=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppVShNotify.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 235424,
+            "fileID": "T1a4VDV94R+oEsMr7f4h4Xtx7I8kAe6BBcIdmqanSmQ=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppVStreamingUX.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 203672,
+            "fileID": "JW6bDBG8mV2VWg15p3fqYhGL4GaN9bpYKMQB0o2RGxc=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppVStreamMap.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 232352,
+            "fileID": "pd66Y4mpQ8GFlDrPrzXvWefDSwnArHCH3Jly8qrd4yQ=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppVTerminator.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 19872,
+            "fileID": "leuOn2h9nnxI9NxaBjoLIEyUjj/xEsyc2ZD8hLohm6s=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "appwiz.cpl",
+            "extension": "cpl",
+            "path": "root/lol",
+            "size": 819200,
+            "fileID": "hufFEhAP67jbp5rGNDD614soZ6ggsuCTqkJgKZ8lh+Q=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppxAllUserStore.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 255904,
+            "fileID": "1NB+Ht7uvPYhNZYamFH9zL3hh0rjmP135v+5kurmonQ=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppXApplicabilityBlob.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 196096,
+            "fileID": "01MIQWupdMJF0Vf8AJIIEgWM10GIqGrDhSoUBoIScdM=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppxApplicabilityEngine.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 620544,
+            "fileID": "bFYregJRk0MhjJQjezhgKVPE1gAF09+ovrKobRcWr68=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppXDeploymentClient.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 654976,
+            "fileID": "hlXW1t+L3LVPer6PhR/+1IgixVHUMAU2eVLzZjoW8TI=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppXDeploymentExtensions.desktop.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 1468416,
+            "fileID": "nUfKBMF2WfYtk/P9SYXeGBeAR37owCc8KnF5eJhg1oU=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppXDeploymentExtensions.onecore.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 1886208,
+            "fileID": "OOgmLTS2tEWrkVa+yXBjGD7GvICkkmuHWqxg1dm+wvk=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppXDeploymentServer.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 2805248,
+            "fileID": "2wMUegbq+hvbSo/xrBfufejkkubLgGtGUtUDpN8eemE=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppxPackaging.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 1279904,
+            "fileID": "F2ws1PE080q/WLyGAWlW/0lmcxogbZus6QXK+2gZjUE=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppxProvisioning.xml",
+            "extension": "xml",
+            "path": "root/lol",
+            "size": 2778,
+            "fileID": "hsu6Ogt5DP4O5vuvxTfzM6gUgqI4Y2XV8XpsqYIwSiQ=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppxSip.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 179712,
+            "fileID": "GZ6NqwGo7Kiivv7qRR/D60P+u6q+Q8KZgCrKvJJpiys=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppxStreamingDataSourcePS.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 14336,
+            "fileID": "ekymE+a94E/kF80V8rhurzCoBX7f3uSFToJyf3A4Xws=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AppxSysprep.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 100864,
+            "fileID": "JnI2nFpZQtkV6/j6s5as9byf0LsNXiItfE0PT6rFAE0=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "ARP.EXE",
+            "extension": "EXE",
+            "path": "root/lol",
+            "size": 25600,
+            "fileID": "GKyhMlVI05dN85eJH6baFREhwtKsRytQb8KZOa5oEEY=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "asferror.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 2560,
+            "fileID": "PrvEo0rhF058kQ+xa1qYkWZHaXBascg3FP9+vT+ZUFo=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "aspnet_counters.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 30912,
+            "fileID": "cYqbNtDRYHJkEz5ePTKj40IWEsvqArzzbtrrJacip3k=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AssignedAccessCsp.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 96256,
+            "fileID": "bkJS6lp6G3gVXfusQXS9ouzDduw5DsuUC/cFeJ8mvII=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "asycfilt.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 87552,
+            "fileID": "dORqM6lwx0iBGA0XO+Wk+FpFEVtshnJACoGruEP+RGY=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "at.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 30208,
+            "fileID": "eUcqYV6+LQyXXzUnB8glLn2VQKOipVekCDsBntsN2bU=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AtBroker.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 53760,
+            "fileID": "kKuOQ9njp6X8i2cSs1jQgJsOZKbOqe2GEzDIhEMOFoY=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "atl.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 96768,
+            "fileID": "bimCAqzPhHdMhlWlgbjBcx64fNEKPmwqOU6TM1LhyHM=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "atl100.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 158536,
+            "fileID": "5JF6Fr8PRrDtgm/griEw2v1vqub0EO1c7bNgQn6mDX4=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "atl110.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 192584,
+            "fileID": "PHadxiS29BmvbXf5y2hG3DDHZLrkI4CVeNKAeuC3n3k=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "atlthunk.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 30720,
+            "fileID": "WEK4PVjS4beIN4QwL4M7pCfr5RPMwiYMA/sZ5sTQeLI=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "atmfd.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 382368,
+            "fileID": "y6aCEam8pcmomua2N+WCu5Zc8iEO/LMxJsXJ3KVZD5A=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "atmlib.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 47104,
+            "fileID": "Jh9Awxs3uT/6IDARTN7Qi2oLJubZBzeOfyGgQUSs0RY=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "attrib.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 21504,
+            "fileID": "NS7JbtFBHjkad2MkqqFvR9J6ksCe4MuDV3BOd/ir3FE=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "audiodg.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 583304,
+            "fileID": "vSxt9LWwl/6jdPbbu0E54XYlaPcwg6tTsT1agMl3+D0=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AudioEndpointBuilder.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 625152,
+            "fileID": "rDT+gjtXtN/4d/7Ko2ukniLh9bhNJQ3PU02sSuptv0Q=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AudioEng.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 1337856,
+            "fileID": "acmDCqIP4JvpVP3eh9d7XTLqbf+0KnoGqqHAZ217iIc=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AUDIOKSE.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 391144,
+            "fileID": "9CCjdyGg/nZWbq//1MdllHqClzcpi/w8iXVEFqmCao0=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AudioSes.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 1054280,
+            "fileID": "j2KoMX5jKXYkZSrH8Ewid3KVOb6LX70Lhf8M/LmybPg=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "audiosrv.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 1357312,
+            "fileID": "qT7YUmsWTXQfJUWVA+T+650oaepIcUfKzSDNYgePExA=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AudioSrvPolicyManager.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 222136,
+            "fileID": "1GzuB7Z/1B9NFNsEmvdGGsfV5OHl0EI71QsRa6AWNbw=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "auditcse.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 202240,
+            "fileID": "a+Ik3RsctyYZwbEDwA1gkShHU/ebgeK8C86Jq18gvyY=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AuditNativeSnapIn.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 223232,
+            "fileID": "EVYqf9HXOucv099u/dhZyyNSWNLqLU3BLEM5qWw/vJs=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "auditpol.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 35328,
+            "fileID": "9gYAwiz5/h5lQHg+4ofvfOkCoyXWdr0Xg2l6fRpQeNg=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "auditpolcore.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 50688,
+            "fileID": "JuaRarjbabgJP/bYFdnrINNmnW2mwGVaQX3WfgEmX6g=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AuditPolicyGPInterop.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 72704,
+            "fileID": "G1xROb0HR96dcO+R+kiTL7x4/tjpxNTOjHLCWJ38RJI=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "auditpolmsg.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 95744,
+            "fileID": "gJxkqfv2dKQqFcjOkE5/jURgrlonEXAWU7xAZzCDTaE=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AuthBroker.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 168448,
+            "fileID": "HQmMo1FHMsbNEViV/lIW3eMhjn4OqHp3g4KHzHqQaXo=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AuthBrokerUI.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 110080,
+            "fileID": "j+X+l3pjiLwI2svu4gvmhnpfvIDWa3KsGbaiWif1TaI=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AuthExt.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 63488,
+            "fileID": "/vAqUrfekNQQu0mFeY2Dx1Prp6oYt5lIzkAE3zkXnkU=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "authfwcfg.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 501760,
+            "fileID": "m8vtjoYgLVhnRPqwxMDhBmcvBc3z43DF8dbWzF9omxA=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AuthFWGP.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 305152,
+            "fileID": "SheCuQuEmm0eTLZyoAr57p45h1oLQQAwVsRtvn4c3kQ=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AuthFWSnapin.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 5100544,
+            "fileID": "OZ/CEhXKZTtnvUsEfZEUyLxIt+RAszs+nlu3w0RaQ9o=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AuthFWWizFwk.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 112640,
+            "fileID": "0yY/xI5IOcVAlQ6nW0h7gBge9rQXWuqMec3b19u/TCg=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AuthHost.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 135400,
+            "fileID": "FpIj8027XTZblsnSgrZGijvPqi7HX4EoYr+4n61sxrQ=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AuthHostProxy.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 18944,
+            "fileID": "S65oiTB7OQSOS7mRJDDzKh99fmusaUY4np8VScL8rfA=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "authui.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 461312,
+            "fileID": "M5jC6nCKwMXlS7xLrJjK4XrVfMZJO1Td+Yc1DB7qj3g=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "authz.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 274432,
+            "fileID": "+9357GcUsmnZy8r4TrPwm3V2Ccon8XoC2e3xmjHDCfk=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "autochk.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 971264,
+            "fileID": "hACau+YARGXn3TVLbYmBiH9Cuh1xgxMwPEVXxgMf6cg=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "autoconv.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 954368,
+            "fileID": "ScgjvvYUNBUyvUk8wr2w11dIuAPgtbpzTYXV03un53s=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "autofmt.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 926208,
+            "fileID": "vB/z8fPpQ3S6h7FIFFR/dkukNJHcnjXrvg0I79LfqSQ=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "autoplay.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 163328,
+            "fileID": "WC4x4ks/0UJ264fWh/P247RmxSwPsQWrpxaqf0yFW9Q=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AverageRoom.bin",
+            "extension": "bin",
+            "path": "root/lol",
+            "size": 79516,
+            "fileID": "KU+PD8nmcfuLjjsagDmijzVaN6sQnIz6jLgw9c8dcc8=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "avicap32.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 79360,
+            "fileID": "d7UH9Yo5RhYM1bpAXQq1NUSft62RyDgerLKlJ1wHxbE=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "avifil32.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 113664,
+            "fileID": "MfR3oNWJail0iAc4PxA/XOaMKq2F5mRpN/Iyl2Hy3HI=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "avrt.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 33168,
+            "fileID": "P9to6C14QIWcrrZZyozg5KDfj7qVcucaDac5IHoYVjA=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AxInstSv.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 111616,
+            "fileID": "5PSiWtQBdwHRwGYclZpJYa2HZLxd+/Zq4N01uYc3+T0=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AxInstUI.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 60416,
+            "fileID": "9l/Nz2G1TesDXcQuKbgFXGSS9v134XvaRoJ6zfjHeXQ=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "azman.msc",
+            "extension": "msc",
+            "path": "root/lol",
+            "size": 41587,
+            "fileID": "hGIEqdmXDqbU5rJxCLN3TENmrSkO6S2I97UufC0Y0RY=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "azroles.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 888320,
+            "fileID": "ZcJMzonYUDWCE+kX0dfRDihPLvma4+5V8UENtf6MNqc=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "azroleui.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 435200,
+            "fileID": "m/T7TBVxvu0oZcvjBfgikjYVEf6c6/TIrhw9Sdd72Pc=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AzSqlExt.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 32256,
+            "fileID": "l2uZ2HhwlOgbcLPH45i5t772iNkWgSZ8EGHLgVQZ3lY=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "AzureSettingSyncProvider.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 1878016,
+            "fileID": "Nuu0Sd5i7njYLoByC0GbXHT3XCr0z5YhLCg5iZWvOWM=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "baaupdate.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 113152,
+            "fileID": "2E6sYh1BlyTs8SRQJUV55IOSresU0Bn6yyNXQJQ8BJU=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "BackgroundMediaPolicy.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 68096,
+            "fileID": "D77zHTb9qn6LjwAF1j8n+fHg1sYK/wUTvOgHgkONa/s=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "backgroundTaskHost.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 19872,
+            "fileID": "JUV2WRPtEeo2iYweJFH9CZApf+8GZzsaiknyKNbmx0c=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "BackgroundTransferHost.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 36864,
+            "fileID": "KkNIIy9Dj2DzjLGOOy4Cue+ofVHg3SjwQorxMfkb+TM=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "BamSettingsClient.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 15360,
+            "fileID": "Y1Hi7ZofY+/hmFYEgqSEQddAC/SN9F04huY5JnfxDCc=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "BarcodeProvisioningPlugin.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 87552,
+            "fileID": "PkjPU+NG8RAkVpv5Ce7GZ8/8c3qQLKxa8BEGZijtqJo=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "basecsp.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 204192,
+            "fileID": "v3fWwEVysD63RyU8mwegogM+NtOlaS3/NcT9XZjRFpI=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "basesrv.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 64512,
+            "fileID": "S6bSwVyZD5yOxq6fBXW6aMYD6BRySe6B5WApKv7U0rs=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "batmeter.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 1667584,
+            "fileID": "/vMjpgk1AlCHtuaZ5TkPIwuD1opHhHvS+PFNRKPr3BI=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "bcastdvr.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 916992,
+            "fileID": "SOWhue9clwG3NnvsX5RZl29VWWGcJ8Smu8ectG266Tg=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "bcastdvr.proxy.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 223232,
+            "fileID": "E2qjNYccqMoA9bMFjCP2YSaPq6vVrAd3JTaKQLNQ3G4=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "BcastDVRBroker.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 369152,
+            "fileID": "f3UD86rxKZXwnzQZyPBFKXjaMX34Dr7h6zSObYV2/kU=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "BcastDVRClient.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 305664,
+            "fileID": "IqzobDDqNXNTZOHUCtFTLQuZymhSVYWXuyR+gbA790c=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "BcastDVRCommon.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 133120,
+            "fileID": "nAxBcNpsj/l5ofup0wf/QAr7RgjHPkxqN0vZWWBRRQ8=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "bcd.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 116280,
+            "fileID": "lPG9XwUfebxSbF+CZYJXsv8a4OK0vcyBzqaB7ffU38M=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "bcdboot.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 197120,
+            "fileID": "cqoZgB1dqdTiSWpwI+u3uzJSvKrgWENF2GVXLyIND/Y=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "bcdedit.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 450048,
+            "fileID": "oUu9hgftsYViH1sF6k2Z1s7vPMSYrnFdYLmBVO50hyI=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "bcdprov.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 77312,
+            "fileID": "xf2polHHpugWNk+lwNzeDzIF/BQw94kfmsPSyxhpKjY=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "bcdsrv.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 88064,
+            "fileID": "OH2+gwbyGdXs7MqW9REp8rizJ/yMokut4rgKlqpjuFQ=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "BCP47Langs.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 421536,
+            "fileID": "NSbNCYMy+0cNVnJIndzkAO4N+ce63FwfGSb0bH1ID5c=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "bcrypt.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 141136,
+            "fileID": "xZgcVwb3ynTKaDrFmQgFmYXipo025ToGtN/TkqhOuD8=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "bcryptprimitives.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 430848,
+            "fileID": "Y13Nqpu5GGpVDzh0xHu17jjvFJoZoD9NNDQeTRVp5Ck=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "bdaplgin.ax",
+            "extension": "ax",
+            "path": "root/lol",
+            "size": 96256,
+            "fileID": "yKrBYzwQ5zv+pcgcL+2jb+5hzANI4BzMswdPhB3uDXc=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "bdechangepin.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 364032,
+            "fileID": "uaq6cZClfZVxjufL4FzyCjIchDrogPlnIg3c3vY16CM=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "BdeHdCfg.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 132608,
+            "fileID": "koAUVM+G4aQduQvnC/j7XM27as0ZQg0vsxtMI3Ub0z0=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "BdeHdCfgLib.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 102912,
+            "fileID": "yPT3yvoxXIOkOFE/rct/RbKyJsM6FYmTyLIGv/r9uWQ=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "bderepair.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 49664,
+            "fileID": "sjj+hPBipXwA23lm4EB+dmKwt6GygAo/OMuFUTIBTsw=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "bdesvc.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 385536,
+            "fileID": "J9Nm04tGHDlzbIYSkONEwNt9MrlxFvpp4i532PExLWk=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "BdeSysprep.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 11776,
+            "fileID": "2gvc5vYoys9OHYniGLifgu4HdZZ0G1diZoq2feh5de0=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "bdeui.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 34816,
+            "fileID": "VSH3p2q2JKycDBcZ6hXIYzNzZB9FVxqt2bHds56sHsI=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "BdeUISrv.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 52736,
+            "fileID": "slT0DxXgnbNXPyWeTK7Gn/IlGPilncO/J0mfshb3hdA=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "bdeunlock.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 288288,
+            "fileID": "lRtZlBE98KDZ8E9rtu5k8XACAU2U3E/AgTtBTv+U6Po=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "BFE.DLL",
+            "extension": "DLL",
+            "path": "root/lol",
+            "size": 815616,
+            "fileID": "yUGKM7CyELMUs4w3hx0Y4auasNc+Dw4a6dj5P92Cu1w=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "bi.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 28672,
+            "fileID": "x9+t3k/c41qDatGpfdCujb9JmheHSmidl7Sa7JihFG4=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "bidispl.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 64512,
+            "fileID": "ufcUNSH/KKIqSGW+7eQMGCZ+HIKKclYLuKOAdsGF36w=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "BingASDS.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 325632,
+            "fileID": "phcYt3N3xo0rUBW2SI5/DKdgUqh/By5kvuLCp/aAi8o=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "BingFilterDS.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 86016,
+            "fileID": "r6ncBm6nKkdh3gnepFMD7yLISRCBRlrcNt2qzcgUFxs=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "BingMaps.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 8333312,
+            "fileID": "wNkDdKSAz9hMhZ91BhHlGzRnHnJz/cozo3SkxeAhMBM=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "BingOnlineServices.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 761344,
+            "fileID": "Lik7TPV6hUkEXbsgmYuh02X1Moabof9jw3dHJ2QaYC8=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "BioCredProv.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 315904,
+            "fileID": "QuN7GbhFZAhm7TgBD0+xMeAov+GucVF4z9SyOkhxiMc=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "BioIso.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 369376,
+            "fileID": "gjXeMcll4mXe6R0TlQABTxZR3uWI+7v1Ljsmr9dtI38=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "bisrv.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 847360,
+            "fileID": "XB6Qs7PX+MplumBGLcIM3r1eT6iTR9Qihth5M76PFKE=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "BitLockerCsp.dll",
+            "extension": "dll",
+            "path": "root/lol",
+            "size": 179200,
+            "fileID": "QQk5IWeTxVB2OD+hulGkO/Bj+aje/3fLCJBtUgHulws=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "BitLockerDeviceEncryption.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 141312,
+            "fileID": "ZqT0uhc2MDreLgGpbfHK9XFjz+pnCUxLNJ3bk5GA+mU=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "BitLockerWizard.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 102400,
+            "fileID": "33HAS//Gj57Ld0rlU9u2THacoh11oG58s7pJ5fRWjmE=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "BitLockerWizardElev.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 102400,
+            "fileID": "9IuwfN/QwcI9EBExhHH26qf6EZoHh13vrbSIxYviEBQ=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          },
+          {
+            "name": "bitsadmin.exe",
+            "extension": "exe",
+            "path": "root/lol",
+            "size": 203264,
+            "fileID": "urR926OpZUrxseDSCkQL92gQ4UwovA6kfnarUYTf5BU=",
+            "dataHash": null,
+            "modDate": "0001-01-01T00:00:00",
+            "state": "created"
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "name": "FSCapture.exe",
+        "extension": "exe",
+        "path": "root",
+        "size": 5177856,
+        "fileID": "l9/ABuENWO6TlEJ0OuBgX6uU3lW7vu6v3I4M6b3qquo=",
+        "dataHash": null,
+        "modDate": "0001-01-01T00:00:00",
+        "state": "created"
+      },
+      {
+        "name": "FSCapture.exe",
+        "extension": "exe",
+        "path": "root",
+        "size": 5177856,
+        "fileID": "l9/ABuENWO6TlEJ0OuBgX6uU3lW7vu6v3I4M6b3qquo=",
+        "dataHash": null,
+        "modDate": "0001-01-01T00:00:00",
+        "state": "created"
+      },
+      {
+        "name": "FSCrossHair.exe",
+        "extension": "exe",
+        "path": "root",
+        "size": 418816,
+        "fileID": "M26vQlnEWR+3fvY3003C0Z2I2OUOvMwnlNa3j1Fh8vQ=",
+        "dataHash": null,
+        "modDate": "0001-01-01T00:00:00",
+        "state": "created"
+      },
+      {
+        "name": "FSRecorder.exe",
+        "extension": "exe",
+        "path": "root",
+        "size": 4587008,
+        "fileID": "mUD95CnqjDIUP8VsF/sZVh4TUi+CpGvnYjfo+jwlE4Q=",
+        "dataHash": null,
+        "modDate": "0001-01-01T00:00:00",
+        "state": "created"
+      },
+      {
+        "name": "FSFocus.exe",
+        "extension": "exe",
+        "path": "root",
+        "size": 401408,
+        "fileID": "0fdES2Uvz0vtGUlKqEr+Hjptj0xAAy1KXUkPkDUL1x8=",
+        "dataHash": null,
+        "modDate": "0001-01-01T00:00:00",
+        "state": "created"
+      },
+      {
+        "name": "Anaconda3-4.4.0-Windows-x86_64.exe",
+        "extension": "exe",
+        "path": "root",
+        "size": 458893576,
+        "fileID": "U2nN7FekK9dBIp7lZwCn/0IX68bFp10qJW0tf+rJvJs=",
+        "dataHash": null,
+        "modDate": "0001-01-01T00:00:00",
+        "state": "created"
+      }
+    ]
+  }
+]

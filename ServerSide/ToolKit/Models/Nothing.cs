@@ -4,9 +4,9 @@ using System.Text;
 
 namespace ToolKit.Models
 {
-    public class Credentials
+    [Serializable]
+    public class Nothing
     {
-        public string result;
-        public Hash key;
+
     }
 }

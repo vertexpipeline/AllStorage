@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="files\" />
     <Folder Include="wwwroot\" />
   </ItemGroup>
   <ItemGroup>

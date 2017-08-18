@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ToolKit.Models
+namespace ToolKit.Models.Event
 {
     public enum EventType
     {

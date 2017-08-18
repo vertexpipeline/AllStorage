@@ -8,6 +8,8 @@ namespace ToolKit.Models
     public enum OperationState
     {
         success,
-        file_exit
+        file_exist,
+        folder_not_found,
+        invalid_key
     }
 }
