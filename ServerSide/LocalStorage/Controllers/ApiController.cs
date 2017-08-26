@@ -216,7 +216,7 @@ namespace LocalStorage.Controllers
                         var folder = SearchFolder(pkg, path);
                         if (folder != null) {
                             res.folder.AddRange(folder.folders ?? new List<FolderInfo>());
-                            res.files.AddRange(folder.files ?? new List<FileInfo>());
+                            res.files.AddRange(folder.files ?? new List<FileInfo>()); 
                         } 
                     }
                 }
