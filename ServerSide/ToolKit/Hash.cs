@@ -62,32 +62,27 @@ namespace ToolKit
             return new Hash() { _hash = hash };
         }
 
-        public static bool operator ==(Hash first, Hash second)
-        {
-            var isEqual = true;
-
-            for (int i = 0; i < first._hash.Length; i++) {
-                if (first._hash[i] != second._hash[i]) {
-                    isEqual = false;
-                    break;
-                }
-            }
-
-            return isEqual;
-        }
-        public static bool operator !=(Hash first, Hash second) => !(first == second);
-
         public override int GetHashCode()
         {
             return base.GetHashCode();
         }
         public override bool Equals(object obj)
         {
-            if(obj is Hash) {
-                return (Hash)obj == this;
+            var second = obj as Hash;
+            if (second == null && this == null)
+                return true;
+            if (second == null || this == null)
+                return false;
+            var isEqual = true;
+
+            for (int i = 0; i < this._hash.Length; i++) {
+                if (this._hash[i] != second._hash[i]) {
+                    isEqual = false;
+                    break;
+                }
             }
 
-            return base.Equals(obj);
+            return isEqual;
         }
 
         public override string ToString()

@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Newtonsoft.Json;
 using static System.Console;
+using ToolKit.Models.Packages;
+using LocalStorage.Controllers;
 
 namespace LocalStorage
 {
@@ -19,8 +21,15 @@ namespace LocalStorage
             try {
                 settings = JsonConvert.DeserializeObject<Settings>(File.ReadAllText("settings.json"));
                 WriteLine("Starting.");
-                WriteLine($"Server key: {settings.key}");
-                WriteLine($"Key hash: {System.Net.WebUtility.UrlEncode(ToolKit.Hash.FromString(settings.key).ToString())}");
+                if(settings.key == null) {
+                    WriteLine("Server provides public access");
+                } else {
+                    WriteLine($"Server key: {settings.key}");
+                    WriteLine($"Key hash: {System.Net.WebUtility.UrlEncode(ToolKit.Hash.FromString(settings.key).ToString())}");
+                }
+                WriteLine("Initializing storaging repositories");
+                APIController.packages = new List<Package>(JsonConvert.DeserializeObject<Package[]>(System.IO.File.ReadAllText("storageMeta.json")));
+                WriteLine("Success");
             }catch(Exception ex) {
                 WriteLine("Cannot load settings.\n Press any key...");
                 return;

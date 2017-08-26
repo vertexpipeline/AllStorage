@@ -11,6 +11,7 @@ namespace ToolKit.Models.Nodes
         public string address;
         public NodeInfo[] nodes;
         public Hash accessKey;
+        public bool needKey = false;
         public Hash ID; // hash of name 
     }
 }

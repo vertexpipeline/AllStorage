@@ -10,6 +10,8 @@ namespace ToolKit.Models
         success,
         file_exist,
         folder_not_found,
-        invalid_key
+        invalid_key,
+        invalid_arguments_list,
+        package_already_exist
     }
 }
