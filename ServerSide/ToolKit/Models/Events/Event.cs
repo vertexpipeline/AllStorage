@@ -6,7 +6,7 @@ namespace ToolKit.Models.Event
 {
     public class Event
     {
-        public EventType type;
+        public EventType type; 
         public object info;
     }
 }
